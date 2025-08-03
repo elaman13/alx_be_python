@@ -21,7 +21,7 @@ class Book:
 
 
 class Library:
-    def __init__():
+    def __init__(self):
         self.__books = []
     
     def add_book(self, book):
